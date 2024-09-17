@@ -1,0 +1,1 @@
+C:\.net\freelanceMarketPlace\freelancemarketplace.client\obj\Debug\freelancemarketplace.client.esproj.CoreCompileInputs.cache

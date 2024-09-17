@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\..\\freelancemarketplace.client",
+"WorkingDirectory": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\..\\freelancemarketplace.User",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
