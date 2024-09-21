@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.net\\freelanceMarketPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\transcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\transcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\projectskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\projectskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\freelancemarketplacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\models\\freelancemarketplacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\services\\userservice\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\services\\userservice\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSkill.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\UserSkill.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\UserSkill.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\UserSkill.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\UserSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:54:28.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transcation.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Transcation.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Transcation.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Transcation.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Transcation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:54:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Skill.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Skill.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:54:08.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Review.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Review.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:54:01.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proposal.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Proposal.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Proposal.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Proposal.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Proposal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:53:52.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectSkill.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\ProjectSkill.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\ProjectSkill.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\ProjectSkill.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\ProjectSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:53:48.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Payment.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Payment.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Payment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:53:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Notification.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Notification.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:53:26.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Message.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Message.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:53:20.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Contract.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Contract.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Contract.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:53:06.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Category.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:52:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Admin.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Admin.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Admin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:52:40.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\Project.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\Project.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Project.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:52:28.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FreelanceMarketPlaceContext.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\FreelanceMarketPlaceContext.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\FreelanceMarketPlaceContext.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\FreelanceMarketPlaceContext.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\FreelanceMarketPlaceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:22:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:22:30.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\appsettings.json",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\appsettings.json",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T06:19:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Models\\User.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Models\\User.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:14:49.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Services\\UserService\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Services\\UserService\\JwtTokenService.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Services\\UserService\\JwtTokenService.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Services\\UserService\\JwtTokenService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:13:32.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Program.cs",
+              "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Program.cs",
+              "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Program.cs",
+              "RelativeToolTip": "freelanceMarketPlace.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:11:58.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
