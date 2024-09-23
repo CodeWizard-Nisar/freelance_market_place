@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\.net\\freelanceMarketPlace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Migrations\\20240921213046_allRelationSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:freelanceMarketPlace.Server\\Migrations\\20240921213046_allRelationSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\migrations\\20240921213046_allrelationset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|solutionrelative:freelancemarketplace.server\\migrations\\20240921213046_allrelationset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{236279C5-0EA6-47A6-9C90-5810B31773A5}|freelanceMarketPlace.Server\\freelanceMarketPlace.Server.csproj|c:\\.net\\freelancemarketplace\\freelancemarketplace.server\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "freelanceMarketPlace.Server\\Migrations\\20240921213046_allRelationSet.cs",
               "ToolTip": "C:\\.net\\freelanceMarketPlace\\freelanceMarketPlace.Server\\Migrations\\20240921213046_allRelationSet.cs",
               "RelativeToolTip": "freelanceMarketPlace.Server\\Migrations\\20240921213046_allRelationSet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T21:30:46.958Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "freelanceMarketPlace.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:16:44.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T21:16:44.447Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "freelanceMarketPlace.Server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T21:11:25.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T21:11:25.517Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\AppDbContext.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAcwB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:04:03.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T21:04:03.762Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:00:55.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T21:00:55.229Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\Bid.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:00:23.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T21:00:23.971Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "freelanceMarketPlace.Server\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T20:58:20.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T20:58:20.927Z"
             }
           ]
         }
